@@ -14,6 +14,6 @@ Features
 
 Installation
 ```bash
-git clone [#########################################################]
+git clone https://github.com/your-username/stock-price-analysis.git
 cd stock-price-analysis
-pip install -r requirements.txt# stock-price-analysis
+pip install -r requirements.txt
